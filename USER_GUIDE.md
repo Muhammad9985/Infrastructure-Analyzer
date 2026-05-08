@@ -568,4 +568,4 @@ pip install PyQt5 PyQtWebEngine
 
 ---
 
-*Developed by Iran Govt*
+*Developed by ME*
