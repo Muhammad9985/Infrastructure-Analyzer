@@ -155,7 +155,7 @@ A sample GeoJSON file is provided at `data/sample/sample_infrastructure.geojson`
 
 ## License
 
-Developed by Iran Govt.
+Developed by Me.
 
 ---
 
